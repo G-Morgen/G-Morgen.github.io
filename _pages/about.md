@@ -58,4 +58,4 @@ Huang Chao is currently an Assistant Professor with the School of Cyber Science 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # CV
-<a href= "docs/ChaoHuang_CV.pdf" download>下载 PDF</a>
+<a href="G-Morgen/docs/ChaoHuang_CV.pdf" target="_blank">下载 PDF</a>
